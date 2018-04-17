@@ -1,0 +1,26 @@
+{
+  "name": "react-native-esoftplay-utils",
+  "version": "1.0.0",
+  "description": "utils for react native development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-esoftplay/react-native-esoftplay-utils.git"
+  },
+  "keywords": [
+    "esoftplay",
+    "utils"
+  ],
+  "author": "masmun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-esoftplay/react-native-esoftplay-utils/issues"
+  },
+  "homepage": "https://github.com/dev-esoftplay/react-native-esoftplay-utils#readme",
+  "dependencies": {
+    "moment": "^2.22.1"
+  }
+}
