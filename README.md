@@ -2,7 +2,7 @@
 utils for react-native development
 
 ### LIST OF FUNCTIONS
-
+```
 getArgs
 getKeyBackOf
 money
@@ -17,3 +17,4 @@ mailTo
 waTo
 mapTo
 copyToClipboard
+```
